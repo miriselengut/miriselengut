@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Miri 👋
 
-<!--
-**miriselengut/miriselengut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student exploring software development.  
+Building projects to improve coding skills and learn new technologies.  
 
-Here are some ideas to get you started:
+## Languages
+Python | C# | SQL | Assembly (MARS)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Concepts & Tools
+OOP | Data Structures | MIPS | Databases | Microsoft Access | Git & GitHub  
+
+## Goals
+Build solid projects, create impactful code and use AI to improve educational systems.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriselengut)](https://github.com/miriselengut/github-readme-stats)
