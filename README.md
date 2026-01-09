@@ -12,4 +12,4 @@ OOP | Data Structures | MIPS | Databases | Microsoft Access | Git & GitHub
 ## Goals
 Build solid projects, create impactful code and use AI to improve educational systems.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriselengut)](https://github.com/miriselengut/github-readme-stats)
+<img width="1536" height="1024" alt="ChatGPT Image Jan 9, 2026, 02_21_08 PM" src="https://github.com/user-attachments/assets/358ca4ab-71a6-4037-bd6e-c011da3c582e" />
